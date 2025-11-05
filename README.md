@@ -7,7 +7,7 @@
   <a href="mailto:omarshahid3333@gmail.com"><img src="https://img.shields.io/badge/Email-omarshahid3333%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/omar-aziz-shahid/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Aziz%20Shahid-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/omar5hahid"><img src="https://img.shields.io/badge/GitHub-omar5hahid-black?style=flat-square&logo=github"></a>
-  <a href="https://www.credly.com/users/omar-aziz-shahid"><img src="https://img.shields.io/badge/Certifications-AWS%20|%20Cloud%20|%20DevOps-yellow?style=flat-square&logo=amazonaws"></a>
+  <a href="https://www.credly.com/users/omar-aziz-shahid](https://www.credly.com/users/omar-shahid.5f5e96b0"><img src="https://img.shields.io/badge/Certifications-AWS%20|%20Cloud%20|%20DevOps-yellow?style=flat-square&logo=amazonaws"></a>
 </p>
 
 ---
@@ -63,11 +63,11 @@ I love designing **secure, automated, and scalable** cloud solutions — turning
 🏆 **AWS Certified Solutions Architect – Associate**  
 ☁️ **AWS Certified Cloud Practitioner**  
 💡 **Python I – University of Waterloo**
-⚛️ React.js – W3Schools (2024)
-🎨 Front End Development – W3Schools (2023)
-🟨 JavaScript – W3Schools (2023)
-🧩 CSS – W3Schools (2023)
-🧱 HTML – W3Schools (2023)
+⚛️ **React.js – W3Schools**
+🎨 **Front End Development – W3Schools**
+🟨 **JavaScript – W3Schools**
+🧩 **CSS – W3Schools**
+🧱 **HTML – W3Schools**
 
 ---
 
