@@ -21,7 +21,11 @@ I love designing **secure, automated, and scalable** cloud solutions — turning
 - Automating everything with **Terraform**, **Ansible**, and **CI/CD**  
 - Building resilient architectures with **AWS (ECS, Lambda, VPC, IAM, CloudFormation)**  
 - Integrating **AI workflows** into cloud-native apps (Amazon Bedrock + OpenAI)  
-- Monitoring and securing systems using **Prometheus**, **Grafana**, and **CyberArk PAM**  
+- Monitoring and securing systems using **Prometheus**, **Grafana**, and **CyberArk PAM**
+
+🧩 My development background:
+Before diving deep into DevOps, I built a strong foundation in **Web and Software Development** — working with **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Python** to create responsive frontends and scalable backends.  
+That experience helps me bridge the gap between **development and operations**, ensuring code moves smoothly from local builds to cloud deployments.     
 
 🌱 **Currently exploring:** Advanced observability and AI-driven DevOps automation.  
 
@@ -43,8 +47,8 @@ I love designing **secure, automated, and scalable** cloud solutions — turning
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node-dot-js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 
 #### 🔐 Security & IAM
 ![IAM](https://img.shields.io/badge/IAM-%2320232a.svg?logo=amazonaws&logoColor=white)
@@ -63,8 +67,6 @@ I love designing **secure, automated, and scalable** cloud solutions — turning
 🏆 **AWS Certified Solutions Architect – Associate**  
 ☁️ **AWS Certified Cloud Practitioner**  
 💡 **Python I – University of Waterloo (WatSPEED)**  
-💻 **Software Engineering Bootcamp – BrainStation**  
-🧱 **Full Stack Web Development Bootcamp – W3Schools**  
 ⚛️ **React.js – W3Schools**  
 🎨 **Front End Development – W3Schools**  
 🟨 **JavaScript – W3Schools**  
