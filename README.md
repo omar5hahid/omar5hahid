@@ -21,7 +21,7 @@ I love designing **secure, automated, and scalable** cloud solutions — turning
 - Automating everything with **Terraform**, **Ansible**, and **CI/CD**  
 - Building resilient architectures with **AWS (ECS, Lambda, VPC, IAM, CloudFormation)**  
 - Integrating **AI workflows** into cloud-native apps (Amazon Bedrock + OpenAI)  
-- Monitoring and securing systems using **Prometheus**, **Grafana**
+- Monitoring and securing systems using **Prometheus**, and **Grafana**
 
 🧩 My development background:
 Before diving deep into DevOps, I built a strong foundation in **Web and Software Development** — working with **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and **Python** to create responsive frontends and scalable backends.  
