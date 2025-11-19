@@ -24,6 +24,7 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 AWS<br>
 Terraform<br>
 Docker<br>
+Kubernetes<br>
 GitHub Actions<br>
 Prometheus<br>
 Grafana<br>
@@ -31,8 +32,9 @@ Grafana<br>
 **Programming:**  
 Python<br>
 JavaScript<br>
+Typescript<br>
 Node.js<br>
-React<br>
+React.js<br>
 
 **Security:**  
 IAM<br>
