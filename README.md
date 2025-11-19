@@ -18,22 +18,49 @@ I’m a DevOps & Cloud Engineer from Mississauga. I focus on automation, serverl
 - Building serverless AI integrations using AWS + OpenAI
 - Preparing for the **AWS Certified DevOps Engineer – Professional** certification
 
-## Tech Stack
-**Cloud & Infrastructure:** AWS, Terraform, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana
-**Programming:** Python, JavaScript, Node.js, React, Typescript
-**Security:** IAM, CyberArk
-**OS & Tools:** Linux, macOS, Git
+### Tech Stack
+
+**Cloud & Infrastructure:**  
+AWS<br>
+Terraform<br>
+Docker<br>
+GitHub Actions<br>
+Prometheus<br>
+Grafana<br>
+
+**Programming:**  
+Python<br>
+JavaScript<br>
+Node.js<br>
+React<br>
+
+**Security:**  
+IAM<br>
+CyberArk<br>
+
+**OS & Tools:**  
+Linux<br>
+macOS<br>
+Git<br>
+
 
 ## Certifications
-AWS Solutions Architect – Associate 
-AWS Cloud Practitioner
-Python I – University of Waterloo (WatSPEED)
-React.js, JavaScript, CSS, HTML – W3Schools
+
+AWS Solutions Architect – Associate<br>
+AWS Cloud Practitioner<br>
+Python I – University of Waterloo (WatSPEED)<br>
+React.js – W3Schools<br>
+JavaScript – W3Schools<br>
+CSS – W3Schools<br>
+HTML – W3Schools<br>
+
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/omar-aziz-shahid  
-GitHub: https://github.com/omar5hahid
-Email: omarshahid3333@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/omar-aziz-shahid<br>
+GitHub: https://github.com/omar5shahid<br>
+Email: omarshahid3333@gmail.com<br>
+
 
 ---
 ⭐️ From [@omar5hahid](https://github.com/omar5hahid)
