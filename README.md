@@ -4,7 +4,7 @@ DevOps & Cloud Engineer | AWS Certified Solutions Architect
 Building secure, automated, and scalable cloud systems.
 
 ## About Me
-I’m a DevOps & Cloud Engineer from Mississauga. I focus on automation, serverless computing, and designing reliable cloud architectures. I enjoy turning complex infrastructure into clean, maintainable code.
+I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless computing, and designing reliable cloud architectures. I enjoy turning complex infrastructure into clean, maintainable code.
 
 ## What I Do
 - Automate infrastructure with Terraform, Ansible, and CI/CD
