@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Omar Aziz Shahid
 
 DevOps & Cloud Engineer | AWS Certified DevOps Engineer
-Building secure, automated, and scalable cloud systems.
+building secure, automated, and scalable cloud systems.
 
 ## About Me
 I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless computing, and designing reliable cloud architectures. I enjoy turning complex infrastructure into clean, maintainable code.
