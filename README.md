@@ -21,16 +21,16 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 ### Tech Stack
 
 **Cloud & Infrastructure:**  
-AWS<br>Terraform<br>Docker<br>Kubernetes<br>GitHub Actions<br>Prometheus<br>Grafana<br>
+AWS|Terraform|Docker|Kubernetes|GitHub Actions|Prometheus|Grafana
 
 **Programming:**  
-Python<br>JavaScript<br>Typescript<br>Node.js<br>React.js<br>
+Python|JavaScript|Typescript|Node.js|React.js
 
 **Security:**  
-IAM<br>CyberArk<br>
+IAM|CyberArk
 
 **OS & Tools:**  
-Linux<br>macOS<br>Git<br>
+Linux|macOS|Git
 
 
 ## Certifications
