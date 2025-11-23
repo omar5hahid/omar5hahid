@@ -21,40 +21,21 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 ### Tech Stack
 
 **Cloud & Infrastructure:**  
-AWS<br>
-Terraform<br>
-Docker<br>
-Kubernetes<br>
-GitHub Actions<br>
-Prometheus<br>
-Grafana<br>
+AWS<br>Terraform<br>Docker<br>Kubernetes<br>GitHub Actions<br>Prometheus<br>Grafana<br>
 
 **Programming:**  
-Python<br>
-JavaScript<br>
-Typescript<br>
-Node.js<br>
-React.js<br>
+Python<br>JavaScript<br>Typescript<br>Node.js<br>React.js<br>
 
 **Security:**  
-IAM<br>
-CyberArk<br>
+IAM<br>CyberArk<br>
 
 **OS & Tools:**  
-Linux<br>
-macOS<br>
-Git<br>
+Linux<br>macOS<br>Git<br>
 
 
 ## Certifications
 
-AWS DevOps Engineer - Professional<br>
-AWS Solutions Architect – Associate<br>
-AWS Cloud Practitioner<br>
-Python I – University of Waterloo (WatSPEED)<br>
-React.js – W3Schools<br>
-JavaScript – W3Schools<br>
-CSS – W3Schools<br>
+AWS DevOps Engineer - Professional<br>AWS Solutions Architect – Associate<br>AWS Cloud Practitioner<br>Python I – University of Waterloo (WatSPEED)<br>React.js – W3Schools<br>JavaScript – W3Schools<br>CSS – W3Schools<br>
 HTML – W3Schools<br>
 
 
