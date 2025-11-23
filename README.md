@@ -21,7 +21,7 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 ### Tech Stack
 
 **Cloud & Infrastructure:**  
-AWS|  Terraform | Docker | Kubernetes | GitHub Actions | Prometheus | Grafana
+AWS | Terraform | Docker | Kubernetes | GitHub Actions | Prometheus | Grafana
 
 **Programming:**  
 Python | JavaScript | Typescript | Node.js | React.js
