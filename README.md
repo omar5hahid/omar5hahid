@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Omar Aziz Shahid
 
-DevOps & Cloud Engineer | AWS Certified Solutions Architect
+DevOps & Cloud Engineer | AWS Certified DevOps Engineer
 Building secure, automated, and scalable cloud systems.
 
 ## About Me
@@ -16,7 +16,7 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 ## Currently Working On
 - Enhancing observability and AI-driven DevOps automation
 - Building serverless AI integrations using AWS + OpenAI
-- Preparing for the **AWS Certified DevOps Engineer – Professional** certification
+- Preparing for the **Hashicorp Certified Terraform Associate** certification
 
 ### Tech Stack
 
@@ -48,6 +48,7 @@ Git<br>
 
 ## Certifications
 
+AWS DevOps Engineer - Professional<br>
 AWS Solutions Architect – Associate<br>
 AWS Cloud Practitioner<br>
 Python I – University of Waterloo (WatSPEED)<br>
