@@ -9,13 +9,11 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 ## What I Do
 - Automate infrastructure with Terraform, Ansible, and CI/CD
 - Build cloud architectures with AWS (ECS, Lambda, VPC, IAM, CloudFormation) 
-- Integrate AI workflows into cloud-native apps (Amazon Bedrock + OpenAI)
 - Monitor and secure systems using Prometheus and Grafana
 - Build responsive frontends and scalable backends
 
 ## Currently Working On
 - Enhancing observability and AI-driven DevOps automation
-- Building serverless AI integrations using AWS + OpenAI
 - Preparing for the **Hashicorp Certified Terraform Associate** certification
 
 ### Tech Stack
@@ -26,12 +24,9 @@ AWS | Terraform | Docker | Kubernetes | GitHub Actions | Prometheus | Grafana
 **Programming:**  
 Python | JavaScript | Typescript | Node.js | React.js
 
-**Security:**  
-IAM | CyberArk
 
-**OS & Tools:**  
-Linux | macOS | Git
-
+**OS:**  
+| Linux |
 
 ## Certifications
 
