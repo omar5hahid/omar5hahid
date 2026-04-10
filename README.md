@@ -4,12 +4,13 @@ DevOps & Cloud Engineer | AWS Certified DevOps Engineer
 building secure, automated, and scalable cloud systems.
 
 ## About Me
-I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless computing, and designing reliable cloud architectures. I enjoy turning complex infrastructure into clean, maintainable code.
+I’m a DevOps & Cloud Engineer from CA. I focus on automation, serverless computing, cloud security, and designing reliable cloud architectures. I enjoy turning complex infrastructure into clean, maintainable code.
 
 ## What I Do
 - Automate infrastructure with Terraform, Ansible, and CI/CD
 - Build cloud architectures with AWS (ECS, Lambda, VPC, IAM, CloudFormation) 
 - Monitor and secure systems using Prometheus and Grafana
+- Implement and manage Privileged Access Management (PAM) solutions using CyberArk
 - Build responsive frontends and scalable backends
 
 ### Tech Stack
