@@ -12,10 +12,6 @@ I’m a DevOps & Cloud Engineer from 🇨🇦. I focus on automation, serverless
 - Monitor and secure systems using Prometheus and Grafana
 - Build responsive frontends and scalable backends
 
-## Currently Working On
-- Enhancing observability and AI-driven DevOps automation
-- Preparing for the **Hashicorp Certified Terraform Associate** certification
-
 ### Tech Stack
 
 **Cloud & Infrastructure:**  
@@ -30,7 +26,7 @@ Python | JavaScript | Typescript | Node.js | React.js
 
 ## Certifications
 
-AWS DevOps Engineer - Professional<br>AWS Solutions Architect – Associate<br>AWS Cloud Practitioner<br>Python I – University of Waterloo (WatSPEED)<br>React.js – W3Schools<br>JavaScript – W3Schools<br>CSS – W3Schools<br>
+AWS DevOps Engineer - Professional<br>AWS Solutions Architect – Associate<br>AWS Cloud Practitioner<br>CyberArk Defender - PAM<br>CyberArk Sentry - PAM<br>CyberArk Sentry - CPC<br>Python I – University of Waterloo (WatSPEED)<br>React.js – W3Schools<br>JavaScript – W3Schools<br>CSS – W3Schools<br>
 HTML – W3Schools<br>
 
 
